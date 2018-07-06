@@ -16,7 +16,8 @@ import javax.microedition.khronos.opengles.GL10;
 import edu.wuwang.opengl.utils.ShaderUtils;
 
 /**
- * Created by wuwang on 2016/10/15
+ * Created by liszt on 2016/10/15
+ * 球体
  */
 public class Ball extends Shape {
 

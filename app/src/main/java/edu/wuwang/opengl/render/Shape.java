@@ -11,7 +11,7 @@ import android.opengl.GLSurfaceView;
 import android.view.View;
 
 /**
- * Description:
+ * Description:几何图形base类
  */
 public abstract class Shape implements GLSurfaceView.Renderer {
 

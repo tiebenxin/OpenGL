@@ -19,7 +19,7 @@ import javax.microedition.khronos.egl.EGLConfig;
 import javax.microedition.khronos.opengles.GL10;
 
 /**
- * Description:
+ * Description:正方形
  */
 public class Square extends Shape {
 
@@ -68,7 +68,7 @@ public class Square extends Shape {
     private int mMatrixHandler;
 
     //设置颜色，依次为红绿蓝和透明通道
-    float color[] = { 1.0f, 1.0f, 1.0f, 1.0f };
+    float color[] = { 1.0f, 1.0f, 1.0f, 1.0f };//当前白色
 
     public Square(View mView) {
         super(mView);

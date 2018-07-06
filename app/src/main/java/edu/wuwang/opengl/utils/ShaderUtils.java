@@ -6,11 +6,9 @@
  */
 package edu.wuwang.opengl.utils;
 
-import android.content.Context;
 import android.content.res.Resources;
 import android.opengl.GLES20;
 import android.util.Log;
-
 import java.io.InputStream;
 
 /**
